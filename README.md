@@ -6,7 +6,7 @@ It's a demo websites, build for educational purpose
 
 ## Demo
 
-- [@amazon-clone-website](https://rajeshsarkar98.github.io/amazon-clone-websites/)
+- [@Spotify-clone-website](https://rajeshsarkar98.github.io/spotify-clone--website/)
 
 
 ## Authors
